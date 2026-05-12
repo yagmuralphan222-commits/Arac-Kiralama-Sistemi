@@ -1,0 +1,58 @@
+[
+    {
+        "musteri": "sahra güneş",
+        "arac": "Mercedes-Benz",
+        "plaka": "34 MER 99",
+        "sure": 48,
+        "tutar": 264000
+    },
+    {
+        "musteri": "ırmak alphan",
+        "arac": "Volkswagen",
+        "plaka": "34 VW 100",
+        "sure": 36,
+        "tutar": 72000
+    },
+    {
+        "musteri": "yagmur alphan",
+        "arac": "Lamborghini",
+        "plaka": "04 YGMR 4848",
+        "sure": 48,
+        "tutar": 288000
+    },
+    {
+        "musteri": "berat alphan",
+        "arac": "Ferrari",
+        "plaka": "06 BRT 0606",
+        "sure": 60,
+        "tutar": 360000
+    },
+    {
+        "musteri": "berfin demir",
+        "arac": "Fiat",
+        "plaka": "34 FIA 50",
+        "sure": 33,
+        "tutar": 39600
+    },
+    {
+        "musteri": "fatih alphan",
+        "arac": "Audi",
+        "plaka": "11 FTH 1111",
+        "sure": 80,
+        "tutar": 360000
+    },
+    {
+        "musteri": "fırat alphan",
+        "arac": "Tesla",
+        "plaka": "00 FRT 0000",
+        "sure": 40,
+        "tutar": 200000
+    },
+    {
+        "musteri": "cemal ürtekin",
+        "arac": "Aston Martin",
+        "plaka": "34 AST 07",
+        "sure": 38,
+        "tutar": 190000
+    }
+]
