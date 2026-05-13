@@ -1,4 +1,5 @@
 Lüks Araç Kiralama Otomasyonu (v1.0)
+
 Bu proje, modern yazılım mimarileri kullanılarak geliştirilmiş profesyonel bir Masaüstü Araç Kiralama Otomasyonu çözümüdür. Proje, sadece bir ödev değil; veri yönetimi, kullanıcı deneyimi ve nesne tabanlı programlama prensiplerinin birleşimidir.
 
 🛠 Kullanılan Teknolojiler
